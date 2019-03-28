@@ -1,0 +1,38 @@
+       Computers are those devices that play a very important role in our everyday life. 
+We are so accustomed to using them that we barely notice their presence. However, their 
+absence can spell trouble for a lot of us. Beginning with a school project, to work from home,
+computers have become part and parcel of our daily lives. Though many of us maybe averse to 
+the idea of machines pervading into our daily lives, they have come to become the unavoidable 
+necessity. Computer help us with calculations, storing data, staying organized and also 
+entertain and inform us. 
+
+
+       Maintaining our computers health isn't only practical, it's essential that is why we need
+to know how to troubleshoot the different parts of our computer. Before going to the repairing process,
+we should identify and isolate the type of difficulty our PC encountered. This is the first step in 
+troubleshooting. Generally, computer problems fall into two main areas, the hardware and the software.
+Our computer fails to work due to hardware or software failure. Hardware problem occurs when one of the 
+key parts of a computer is unable to work properly. The key components of a computer that are required
+to run a computer include Motherboard, CPU, Memory, Power Unit, Hard Drive, Sound and Video Cards, 
+CD/DVD Drive, Floppy Drive, Monitor and Keyboard. Among these computer parts, the most failure-
+prone parts are memory, power unit, hard drive, video card and CD/DVD drive. Other than hardware 
+effect, a computer may stop working because of software problem as well. In fact, most of the problems 
+of a computer come due to software problem and system configurations. Software includes both the 
+operating system and application programs. Some of the reasons for software problems include corrupted
+or missing system files, virus attack, invalid hardware or incompatible driver and improper program 
+installation/removal. The second step in troubleshooting is dealing with the identified problem. 
+How are we going to solve the problem? What do we need to resolve it? To come down to the best 
+solution, we must ask these kinds of questions and answer accordingly. If it is a hardware problem, 
+we either repair or replace it with new one. Actually, not all parts of a computer are repairable.
+Even if it is maintainable, in most cases replacing the defective part with a new one is cheaper 
+than to repair it. Reinstalling and updating software is the primary way of troubleshooting systems
+problem created by software. Any system error or corruption related with installed applications
+can be fixed by installing an updated and fresh copy again.
+
+
+      In one way or another, we use computer to carry out our daily task. However, in any time, 
+our PC may stop working and disappoint us. However if we know the methods of troubleshooting,
+we will surely fix the problem and continue with our work. Also we will cut PC repair cost by half. 
+ 
+        
+ 
